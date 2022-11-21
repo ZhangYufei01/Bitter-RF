@@ -1,0 +1,1024 @@
+>Negative 0|0|training
+NPP
+>Negative 1|0|training
+FCF
+>Negative 2|0|training
+LKPMN
+>Negative 3|0|training
+IWHHT
+>Negative 4|0|training
+PANLPWGSSNV
+>Negative 5|0|training
+NWGPLV
+>Negative 6|0|training
+AKK
+>Negative 7|0|training
+KIYPSFQPQPLIYP
+>Negative 8|0|training
+LNP
+>Negative 9|0|training
+ITT
+>Negative 10|0|training
+AKYSY
+>Negative 11|0|training
+GD
+>Negative 12|0|training
+GT
+>Negative 13|0|training
+KKIATYQER
+>Negative 14|0|training
+PVPQP
+>Negative 15|0|training
+FQKVVAG
+>Negative 16|0|training
+KVLPVPQ
+>Negative 17|0|training
+LRY
+>Negative 18|0|training
+GYK
+>Negative 19|0|training
+IPY
+>Negative 20|0|training
+ERKIKVYL
+>Negative 21|0|training
+LIY
+>Negative 22|0|training
+PQR
+>Negative 23|0|training
+KW
+>Negative 24|0|training
+PPK
+>Negative 25|0|training
+NKL
+>Negative 26|0|training
+PPHQIYP
+>Negative 27|0|training
+HQIYP
+>Negative 28|0|training
+CMENSA
+>Negative 29|0|training
+AP
+>Negative 30|0|training
+EMPFPK
+>Negative 31|0|training
+FQKVVA
+>Negative 32|0|training
+GHKIATFQER
+>Negative 33|0|training
+GHF
+>Negative 34|0|training
+PQAFP
+>Negative 35|0|training
+QTQSLVYP
+>Negative 36|0|training
+IQSEPKAIP
+>Negative 37|0|training
+KVHSSIQSQPQAFT
+>Negative 38|0|training
+PAP
+>Negative 39|0|training
+IKPLNY
+>Negative 40|0|training
+LENLHLPLP
+>Negative 41|0|training
+QVSLNSGYY
+>Negative 42|0|training
+KVREGT
+>Negative 43|0|training
+FGASTRGA
+>Negative 44|0|training
+IVY
+>Negative 45|0|training
+QG
+>Negative 46|0|training
+NLHLPLP
+>Negative 47|0|training
+RA
+>Negative 48|0|training
+SGIQSEPKAIP
+>Negative 49|0|training
+KFYG
+>Negative 50|0|training
+PYP
+>Negative 51|0|training
+LNVPGEIVE
+>Negative 52|0|training
+DKIHPF
+>Negative 53|0|training
+QSEPKAIP
+>Negative 54|0|training
+FVAP
+>Negative 55|0|training
+FPEVFGK
+>Negative 56|0|training
+PQNILP
+>Negative 57|0|training
+PQEVLP
+>Negative 58|0|training
+LHLPLPL
+>Negative 59|0|training
+DLP
+>Negative 60|0|training
+HIRL
+>Negative 61|0|training
+DYGLYP
+>Negative 62|0|training
+QSQPQAFP
+>Negative 63|0|training
+LDAQSAPLR
+>Negative 64|0|training
+SFQPQPLIYP
+>Negative 65|0|training
+RMLGQTPWK
+>Negative 66|0|training
+PANIKWGD
+>Negative 67|0|training
+MKPWIQPK
+>Negative 68|0|training
+AY
+>Negative 69|0|training
+HLPLP
+>Negative 70|0|training
+LVYPFPGPIPNSLPQNIPP
+>Negative 71|0|training
+FQKVVAK
+>Negative 72|0|training
+AVVRP
+>Negative 73|0|training
+LLF
+>Negative 74|0|training
+ALNEINQFY
+>Negative 75|0|training
+LPP
+>Negative 76|0|training
+PHQIYP
+>Negative 77|0|training
+AG
+>Negative 78|0|training
+IYPRY
+>Negative 79|0|training
+KVLAGM
+>Negative 80|0|training
+NF
+>Negative 81|0|training
+AVNPIR
+>Negative 82|0|training
+GVW
+>Negative 83|0|training
+NMAINPSK
+>Negative 84|0|training
+NIFYCP
+>Negative 85|0|training
+LVRT
+>Negative 86|0|training
+LLNPPHQIYP
+>Negative 87|0|training
+ALKAWSVAR
+>Negative 88|0|training
+EPKAIP
+>Negative 89|0|training
+FHSGIQSEPKAIP
+>Negative 90|0|training
+NIPPLTQTPV
+>Negative 91|0|training
+IWH
+>Negative 92|0|training
+GWAP
+>Negative 93|0|training
+SF
+>Negative 94|0|training
+SHP
+>Negative 95|0|training
+HL
+>Negative 96|0|training
+EKDERF
+>Negative 97|0|training
+PGL
+>Negative 98|0|training
+LYP
+>Negative 99|0|training
+DMIPAQK
+>Negative 100|0|training
+LGP
+>Negative 101|0|training
+LQQ
+>Negative 102|0|training
+AVPYPQR
+>Negative 103|0|training
+HGLF
+>Negative 104|0|training
+GPAGAPGAA
+>Negative 105|0|training
+LNPA
+>Negative 106|0|training
+IQSQPQAFP
+>Negative 107|0|training
+LPG
+>Negative 108|0|training
+NG
+>Negative 109|0|training
+IRA
+>Negative 110|0|training
+PGTAVFK
+>Negative 111|0|training
+LAMA
+>Negative 112|0|training
+HSSIQSQPQAFT
+>Negative 113|0|training
+RMLGNTPTK
+>Negative 114|0|training
+AVPYP
+>Negative 115|0|training
+PNSHP
+>Negative 116|0|training
+RY
+>Negative 117|0|training
+GDAP
+>Negative 118|0|training
+MF
+>Negative 119|0|training
+AIPP
+>Negative 120|0|training
+AFP
+>Negative 121|0|training
+MKG
+>Negative 122|0|training
+LAYFYP
+>Negative 123|0|training
+IY
+>Negative 124|0|training
+MG
+>Negative 125|0|training
+LVL
+>Negative 126|0|training
+GRVMP
+>Negative 127|0|training
+LQKW
+>Negative 128|0|training
+RL
+>Negative 129|0|training
+ALPP
+>Negative 130|0|training
+QVPQPIP
+>Negative 131|0|training
+LIYP
+>Negative 132|0|training
+IYK
+>Negative 133|0|training
+HLL
+>Negative 134|0|training
+AW
+>Negative 135|0|training
+LPQNILP
+>Negative 136|0|training
+FFL
+>Negative 137|0|training
+IYPSFQPQPLIYP
+>Negative 138|0|training
+LPYPY
+>Negative 139|0|training
+QPQAFP
+>Negative 140|0|training
+PPPVHL
+>Negative 141|0|training
+KR
+>Negative 142|0|training
+GKP
+>Negative 143|0|training
+FPQYLQY
+>Negative 144|0|training
+ENLHLPLP
+>Negative 145|0|training
+LALPP
+>Negative 146|0|training
+LLYQQPV
+>Negative 147|0|training
+GA
+>Negative 148|0|training
+FALPQY
+>Negative 149|0|training
+FNQ
+>Negative 150|0|training
+GLDIQK
+>Negative 151|0|training
+PLP
+>Negative 152|0|training
+FQP
+>Negative 153|0|training
+AR
+>Negative 154|0|training
+PQTLALP
+>Negative 155|0|training
+MNP
+>Negative 156|0|training
+IVGRRRHQG
+>Negative 157|0|training
+PTHIKWGD
+>Negative 158|0|training
+PFPE
+>Negative 159|0|training
+GQ
+>Negative 160|0|training
+KVLPVP
+>Negative 161|0|training
+NLHLP
+>Negative 162|0|training
+GG
+>Negative 163|0|training
+EPIPYGFLP
+>Negative 164|0|training
+PQPLIYP
+>Negative 165|0|training
+IVR
+>Negative 166|0|training
+FYQQ
+>Negative 167|0|training
+FKGRYYP
+>Negative 168|0|training
+PSY
+>Negative 169|0|training
+RW
+>Negative 170|0|training
+IR
+>Negative 171|0|training
+IYLL
+>Negative 172|0|training
+PLW
+>Negative 173|0|training
+LKA
+>Negative 174|0|training
+FFVAP
+>Negative 175|0|training
+AIP
+>Negative 176|0|training
+IVGRPRHQG
+>Negative 177|0|training
+LHLP
+>Negative 178|0|training
+AMKPWIQPK
+>Negative 179|0|training
+RADHPF
+>Negative 180|0|training
+IRAQQ
+>Negative 181|0|training
+AMPKPW
+>Negative 182|0|training
+NRVYVHPF
+>Negative 183|0|training
+SG
+>Negative 184|0|training
+FRAEHPL
+>Negative 185|0|training
+KY
+>Negative 186|0|training
+IAK
+>Negative 187|0|training
+LAA
+>Negative 188|0|training
+PAVVLP
+>Negative 189|0|training
+LVYP
+>Negative 190|0|training
+IHPFAQTQSLVYP
+>Negative 191|0|training
+MYY
+>Negative 192|0|training
+LTF
+>Negative 193|0|training
+FPFEVFGK
+>Negative 194|0|training
+HSGIQSEPKAIP
+>Negative 195|0|training
+SEPKAIP
+>Negative 196|0|training
+LLP
+>Negative 197|0|training
+HY
+>Negative 198|0|training
+KAIP
+>Negative 199|0|training
+IFG
+>Negative 200|0|training
+PSKIKWGD
+>Negative 201|0|training
+MKY
+>Negative 202|0|training
+HG
+>Negative 203|0|training
+LSP
+>Negative 204|0|training
+IKW
+>Negative 205|0|training
+ALPHA
+>Negative 206|0|training
+GKKVLQ
+>Negative 207|0|training
+IPA
+>Negative 208|0|training
+GVYPHK
+>Negative 209|0|training
+LDIQK
+>Negative 210|0|training
+PLG
+>Negative 211|0|training
+LFRQ
+>Negative 212|0|training
+LQSW
+>Negative 213|0|training
+HQAAGW
+>Negative 214|0|training
+QK
+>Negative 215|0|training
+KYY
+>Negative 216|0|training
+AHSY
+>Negative 217|0|training
+IAIPP
+>Negative 218|0|training
+NY
+>Negative 219|0|training
+GAAELPCSADWW
+>Negative 220|0|training
+KFHSGIQSEPKAIP
+>Negative 221|0|training
+QPIP
+>Negative 222|0|training
+GPA
+>Negative 223|0|training
+GK
+>Negative 224|0|training
+LVVYPWTQR
+>Negative 225|0|training
+LNPPHQIYP
+>Negative 226|0|training
+DKIYPSFQPQPLIYP
+>Negative 227|0|training
+LAP
+>Negative 228|0|training
+LPLP
+>Negative 229|0|training
+KL
+>Negative 230|0|training
+LKVGVKQY
+>Negative 231|0|training
+IAIP
+>Negative 232|0|training
+AYFYPE
+>Negative 233|0|training
+CF
+>Negative 234|0|training
+SAYPGQITSN
+>Negative 235|0|training
+FFVAPFPFEVFGK
+>Negative 236|0|training
+GVHGV
+>Negative 237|0|training
+GPV
+>Negative 238|0|training
+IRP
+>Negative 239|0|training
+HPFAQTQSLVYP
+>Negative 240|0|training
+ITTNP
+>Negative 241|0|training
+IPP
+>Negative 242|0|training
+KDERF
+>Negative 243|0|training
+AAP
+>Negative 244|0|training
+MY
+>Negative 245|0|training
+PVRAVP
+>Negative 246|0|training
+AQTQSLVYP
+>Negative 247|0|training
+QAFT
+>Negative 248|0|training
+IRPVQ
+>Negative 249|0|training
+MNPPK
+>Negative 250|0|training
+PQPIP
+>Negative 251|0|training
+NPPHQIYP
+>Negative 252|0|training
+AIYK
+>Negative 253|0|training
+ENGLPVHLDQSIFRRP
+>Negative 254|0|training
+AMKPW
+>Negative 255|0|training
+GYALPHA
+>Positive 0|1|training
+GFF
+>Positive 1|1|training
+VYPFPPGIGG
+>Positive 2|1|training
+EVLN
+>Positive 3|1|training
+KAVPYPPQ
+>Positive 4|1|training
+FV
+>Positive 5|1|training
+RR
+>Positive 6|1|training
+RGPPFIVRGPPFIV
+>Positive 7|1|training
+RPFF
+>Positive 8|1|training
+PR
+>Positive 9|1|training
+GRP
+>Positive 10|1|training
+FGFG
+>Positive 11|1|training
+RPGGFF
+>Positive 12|1|training
+DG
+>Positive 13|1|training
+QDKIHPFAQTQSLVYPFPGP
+>Positive 14|1|training
+RGPKPIIV
+>Positive 15|1|training
+ADE
+>Positive 16|1|training
+RGPPFIV
+>Positive 17|1|training
+KPK
+>Positive 18|1|training
+IF
+>Positive 19|1|training
+FIV
+>Positive 20|1|training
+MPFPKYPVEPF
+>Positive 21|1|training
+DL
+>Positive 22|1|training
+AV
+>Positive 23|1|training
+DA
+>Positive 24|1|training
+VPLGTQYTDAPSF
+>Positive 25|1|training
+AL
+>Positive 26|1|training
+PVLGPV
+>Positive 27|1|training
+GW
+>Positive 28|1|training
+RGPEPIIV
+>Positive 29|1|training
+YLGYLEQLLR
+>Positive 30|1|training
+VIF
+>Positive 31|1|training
+GYY
+>Positive 32|1|training
+RGPPFFF
+>Positive 33|1|training
+YQQPVLGPVRGPFPI
+>Positive 34|1|training
+VVVPPFLQP
+>Positive 35|1|training
+IGTLAGA
+>Positive 36|1|training
+PFPIIV
+>Positive 37|1|training
+IG
+>Positive 38|1|training
+GYG
+>Positive 39|1|training
+RGPPGGFF
+>Positive 40|1|training
+LGL
+>Positive 41|1|training
+WP
+>Positive 42|1|training
+RGFF
+>Positive 43|1|training
+FI
+>Positive 44|1|training
+GMIYPG
+>Positive 45|1|training
+LL
+>Positive 46|1|training
+FW
+>Positive 47|1|training
+PF
+>Positive 48|1|training
+RRPPFF
+>Positive 49|1|training
+YYG
+>Positive 50|1|training
+RRR
+>Positive 51|1|training
+GP
+>Positive 52|1|training
+LRL
+>Positive 53|1|training
+LGG
+>Positive 54|1|training
+RRPP
+>Positive 55|1|training
+RRPPPFFF
+>Positive 56|1|training
+QLFNPS
+>Positive 57|1|training
+DV
+>Positive 58|1|training
+RPFG
+>Positive 59|1|training
+IP
+>Positive 60|1|training
+QNDKIHPFAQTQSLVYPFGPIPNSLPQNIPPLTQTPVVV
+>Positive 61|1|training
+RG
+>Positive 62|1|training
+GKHQQEEENEGG
+>Positive 63|1|training
+PK
+>Positive 64|1|training
+PPFIV
+>Positive 65|1|training
+EF
+>Positive 66|1|training
+VVV
+>Positive 67|1|training
+PA
+>Positive 68|1|training
+YQQPVLGPVRGPFPIIV
+>Positive 69|1|training
+ELL
+>Positive 70|1|training
+YLEQLLR
+>Positive 71|1|training
+FFPGG
+>Positive 72|1|training
+KLHENIAR
+>Positive 73|1|training
+RGP
+>Positive 74|1|training
+GPFPIIV
+>Positive 75|1|training
+GLY
+>Positive 76|1|training
+IQ
+>Positive 77|1|training
+VIFPPG
+>Positive 78|1|training
+APFPEVFG
+>Positive 79|1|training
+II
+>Positive 80|1|training
+VPPFLE
+>Positive 81|1|training
+GGLGG
+>Positive 82|1|training
+PGI
+>Positive 83|1|training
+RGPFIV
+>Positive 84|1|training
+LV
+>Positive 85|1|training
+VIIPFPGR
+>Positive 86|1|training
+VPPFLQ
+>Positive 87|1|training
+SL
+>Positive 88|1|training
+NENLL
+>Positive 89|1|training
+FFPR
+>Positive 90|1|training
+YQEPVLGPVRGPFPIIV
+>Positive 91|1|training
+IV
+>Positive 92|1|training
+FPP
+>Positive 93|1|training
+AGNPDIEHPE
+>Positive 94|1|training
+PVRGPFPIIV
+>Positive 95|1|training
+VL
+>Positive 96|1|training
+LA
+>Positive 97|1|training
+RGPGPIIV
+>Positive 98|1|training
+LD
+>Positive 99|1|training
+FPPFIV
+>Positive 100|1|training
+GPPF
+>Positive 101|1|training
+KF
+>Positive 102|1|training
+RRPPGF
+>Positive 103|1|training
+VYPFPPG
+>Positive 104|1|training
+LGGGG
+>Positive 105|1|training
+GLG
+>Positive 106|1|training
+YF
+>Positive 107|1|training
+YYY
+>Positive 108|1|training
+NNEDT
+>Positive 109|1|training
+YL
+>Positive 110|1|training
+VF
+>Positive 111|1|training
+PIP
+>Positive 112|1|training
+YGY
+>Positive 113|1|training
+GPFF
+>Positive 114|1|training
+QLFGPNVNPWHNP
+>Positive 115|1|training
+PP
+>Positive 116|1|training
+RGPFPIIV
+>Positive 117|1|training
+EY
+>Positive 118|1|training
+KG
+>Positive 119|1|training
+YP
+>Positive 120|1|training
+LF
+>Positive 121|1|training
+YEGNS
+>Positive 122|1|training
+GVV
+>Positive 123|1|training
+VYPFPPGI
+>Positive 124|1|training
+IN
+>Positive 125|1|training
+GLL
+>Positive 126|1|training
+VE
+>Positive 127|1|training
+LE
+>Positive 128|1|training
+VYPF
+>Positive 129|1|training
+IW
+>Positive 130|1|training
+GPVRGPFPIIV
+>Positive 131|1|training
+SAEFG
+>Positive 132|1|training
+GLGG
+>Positive 133|1|training
+GR
+>Positive 134|1|training
+RGPPGGGFF
+>Positive 135|1|training
+AD
+>Positive 136|1|training
+KPPFIV
+>Positive 137|1|training
+RGPPFF
+>Positive 138|1|training
+LW
+>Positive 139|1|training
+LRP
+>Positive 140|1|training
+GGV
+>Positive 141|1|training
+WF
+>Positive 142|1|training
+LLL
+>Positive 143|1|training
+YQEPVLGPVRGPFPI
+>Positive 144|1|training
+RGPPFIIV
+>Positive 145|1|training
+WWW
+>Positive 146|1|training
+FFVAPFPEVFGK
+>Positive 147|1|training
+RDMPIQAFLLY
+>Positive 148|1|training
+LGYLEQLL
+>Positive 149|1|training
+FG
+>Positive 150|1|training
+EG
+>Positive 151|1|training
+PPG
+>Positive 152|1|training
+FYPELFR
+>Positive 153|1|training
+APK
+>Positive 154|1|training
+DY
+>Positive 155|1|training
+EEN
+>Positive 156|1|training
+WE
+>Positive 157|1|training
+ID
+>Positive 158|1|training
+RGPPFI
+>Positive 159|1|training
+GGFF
+>Positive 160|1|training
+FYPE
+>Positive 161|1|training
+VA
+>Positive 162|1|training
+EPAD
+>Positive 163|1|training
+FGF
+>Positive 164|1|training
+PI
+>Positive 165|1|training
+GGGL
+>Positive 166|1|training
+SLA
+>Positive 167|1|training
+FFPP
+>Positive 168|1|training
+FFPG
+>Positive 169|1|training
+NLQG
+>Positive 170|1|training
+KPF
+>Positive 171|1|training
+RGPPFIVGG
+>Positive 172|1|training
+GFG
+>Positive 173|1|training
+GGGLG
+>Positive 174|1|training
+IE
+>Positive 175|1|training
+GGRPFF
+>Positive 176|1|training
+IT
+>Positive 177|1|training
+IK
+>Positive 178|1|training
+EQGGEQG
+>Positive 179|1|training
+APFPEVF
+>Positive 180|1|training
+GGP
+>Positive 181|1|training
+VI
+>Positive 182|1|training
+GI
+>Positive 183|1|training
+YPFPGPI
+>Positive 184|1|training
+YPF
+>Positive 185|1|training
+GE
+>Positive 186|1|training
+RPKHPIKHQ
+>Positive 187|1|training
+FYPELF
+>Positive 188|1|training
+RPPFIV
+>Positive 189|1|training
+FL
+>Positive 190|1|training
+VYPFPPGINH
+>Positive 191|1|training
+ALEPDHR
+>Positive 192|1|training
+FPK
+>Positive 193|1|training
+AF
+>Positive 194|1|training
+FGGF
+>Positive 195|1|training
+RGPPGF
+>Positive 196|1|training
+NALEPDHRVE
+>Positive 197|1|training
+GLGGG
+>Positive 198|1|training
+EE
+>Positive 199|1|training
+QNDKIHPFAQTQSLVYPFGPIP
+>Positive 200|1|training
+RGGFIV
+>Positive 201|1|training
+TDVENLHLPPLL
+>Positive 202|1|training
+GGY
+>Positive 203|1|training
+FLL
+>Positive 204|1|training
+RPG
+>Positive 205|1|training
+QQPVLGPVRGPFPI
+>Positive 206|1|training
+VV
+>Positive 207|1|training
+GGRGPPFIV
+>Positive 208|1|training
+GPG
+>Positive 209|1|training
+QSKVLPVPQ
+>Positive 210|1|training
+KP
+>Positive 211|1|training
+RPF
+>Positive 212|1|training
+VYPFGGGINH
+>Positive 213|1|training
+GF
+>Positive 214|1|training
+GGRPFFGG
+>Positive 215|1|training
+MAPKHKEMPFPKYPVEPF
+>Positive 216|1|training
+RPFFRPFF
+>Positive 217|1|training
+PG
+>Positive 218|1|training
+GGGGL
+>Positive 219|1|training
+RPGFF
+>Positive 220|1|training
+PGG
+>Positive 221|1|training
+VYP
+>Positive 222|1|training
+PPP
+>Positive 223|1|training
+VY
+>Positive 224|1|training
+RPFFRPFFRPFF
+>Positive 225|1|training
+FFGG
+>Positive 226|1|training
+DLL
+>Positive 227|1|training
+RPGF
+>Positive 228|1|training
+PFP
+>Positive 229|1|training
+FFPE
+>Positive 230|1|training
+APKHKEMPFPKYPVEPF
+>Positive 231|1|training
+GL
+>Positive 232|1|training
+VVYPWTQRF
+>Positive 233|1|training
+VIPFPGR
+>Positive 234|1|training
+LEQLL
+>Positive 235|1|training
+QLFNPSTNPWH
+>Positive 236|1|training
+GGFFGG
+>Positive 237|1|training
+YY
+>Positive 238|1|training
+YPFPGPIHNS
+>Positive 239|1|training
+QPVLGPVRGPFPIIV
+>Positive 240|1|training
+LY
+>Positive 241|1|training
+VYPFPPIGNH
+>Positive 242|1|training
+LGGG
+>Positive 243|1|training
+IL
+>Positive 244|1|training
+QLFNPSTNPWHSP
+>Positive 245|1|training
+PFPGPIPNS
+>Positive 246|1|training
+NALPE
+>Positive 247|1|training
+LI
+>Positive 248|1|training
+RGPPGIG
+>Positive 249|1|training
+PFIV
+>Positive 250|1|training
+EI
+>Positive 251|1|training
+FFRPFFRPFF
+>Positive 252|1|training
+AYFYPEL
+>Positive 253|1|training
+EL
+>Positive 254|1|training
+FP
+>Positive 255|1|training
+EGG

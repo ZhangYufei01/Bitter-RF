@@ -1,0 +1,256 @@
+>Negative 0|0|testing
+AA
+>Negative 1|0|testing
+IKP
+>Negative 2|0|testing
+ILP
+>Negative 3|0|testing
+PFFDPQIP
+>Negative 4|0|testing
+IPQEVLP
+>Negative 5|0|testing
+PKAIP
+>Negative 6|0|testing
+ALNEINQFYQK
+>Negative 7|0|testing
+PLIYP
+>Negative 8|0|testing
+ALPMH
+>Negative 9|0|testing
+ALPMHIR
+>Negative 10|0|testing
+AVP
+>Negative 11|0|testing
+PRY
+>Negative 12|0|testing
+IYP
+>Negative 13|0|testing
+IYPR
+>Negative 14|0|testing
+PSFQP
+>Negative 15|0|testing
+AYFYP
+>Negative 16|0|testing
+KA
+>Negative 17|0|testing
+PSFQPQPLIYP
+>Negative 18|0|testing
+CWLPVY
+>Negative 19|0|testing
+DAYPSGAW
+>Negative 20|0|testing
+DFVAP
+>Negative 21|0|testing
+KFY
+>Negative 22|0|testing
+KIHPFAQTQSLVYP
+>Negative 23|0|testing
+QPLIYP
+>Negative 24|0|testing
+QPQPLIYP
+>Negative 25|0|testing
+QSLVYP
+>Negative 26|0|testing
+ENGLPVHLDQSIFRR
+>Negative 27|0|testing
+KVREGTTY
+>Negative 28|0|testing
+RFH
+>Negative 29|0|testing
+FAP
+>Negative 30|0|testing
+FAQTQSLVYP
+>Negative 31|0|testing
+LAHKAL
+>Negative 32|0|testing
+FFGRCVSP
+>Negative 33|0|testing
+RMLGQTPTK
+>Negative 34|0|testing
+LAY
+>Negative 35|0|testing
+FGK
+>Negative 36|0|testing
+FGRCVSP
+>Negative 37|0|testing
+LHLPLP
+>Negative 38|0|testing
+FQKPKR
+>Negative 39|0|testing
+LKL
+>Negative 40|0|testing
+LKP
+>Negative 41|0|testing
+FQPQPLIYP
+>Negative 42|0|testing
+FR
+>Negative 43|0|testing
+FWN
+>Negative 44|0|testing
+GEP
+>Negative 45|0|testing
+GH
+>Negative 46|0|testing
+GIQSEPKAIP
+>Negative 47|0|testing
+LQP
+>Negative 48|0|testing
+GKKIATYQER
+>Negative 49|0|testing
+LRW
+>Negative 50|0|testing
+GLP
+>Negative 51|0|testing
+GM
+>Negative 52|0|testing
+LSPA
+>Negative 53|0|testing
+LVE
+>Negative 54|0|testing
+GPL
+>Negative 55|0|testing
+LVR
+>Negative 56|0|testing
+GS
+>Negative 57|0|testing
+GTW
+>Negative 58|0|testing
+LYPVK
+>Negative 59|0|testing
+MIFPGGPQL
+>Negative 60|0|testing
+HHL
+>Negative 61|0|testing
+HIR
+>Negative 62|0|testing
+NILP
+>Negative 63|0|testing
+NK
+>Positive 0|1|testing
+VD
+>Positive 1|1|testing
+AQTQSLVYPFPGPIPNSLPQNIPPLTQ
+>Positive 2|1|testing
+LAGNQEEE
+>Positive 3|1|testing
+VG
+>Positive 4|1|testing
+LG
+>Positive 5|1|testing
+VIFPPGR
+>Positive 6|1|testing
+VIIPFPG
+>Positive 7|1|testing
+EA
+>Positive 8|1|testing
+LLG
+>Positive 9|1|testing
+LLLL
+>Positive 10|1|testing
+VVVPPFL
+>Positive 11|1|testing
+EQPQQNE
+>Positive 12|1|testing
+EV
+>Positive 13|1|testing
+LVYPFPGPIHN
+>Positive 14|1|testing
+FALPQYLK
+>Positive 15|1|testing
+FF
+>Positive 16|1|testing
+FFF
+>Positive 17|1|testing
+FFG
+>Positive 18|1|testing
+NFNNQLDQQTPR
+>Positive 19|1|testing
+WL
+>Positive 20|1|testing
+WW
+>Positive 21|1|testing
+PFPGPI
+>Positive 22|1|testing
+PFPGPIP
+>Positive 23|1|testing
+YG
+>Positive 24|1|testing
+YGG
+>Positive 25|1|testing
+FGG
+>Positive 26|1|testing
+PFPP
+>Positive 27|1|testing
+PGP
+>Positive 28|1|testing
+PGPGPG
+>Positive 29|1|testing
+PGPIP
+>Positive 30|1|testing
+FPF
+>Positive 31|1|testing
+PGR
+>Positive 32|1|testing
+YQQPVLGPVRGPFPII
+>Positive 33|1|testing
+PL
+>Positive 34|1|testing
+FY
+>Positive 35|1|testing
+PPF
+>Positive 36|1|testing
+PVLGPVRGPFPIIV
+>Positive 37|1|testing
+GGF
+>Positive 38|1|testing
+PY
+>Positive 39|1|testing
+QLFNPSTNP
+>Positive 40|1|testing
+GGL
+>Positive 41|1|testing
+GGLG
+>Positive 42|1|testing
+GGRGPPFIVGG
+>Positive 43|1|testing
+RF
+>Positive 44|1|testing
+GGVVV
+>Positive 45|1|testing
+RGPFPIV
+>Positive 46|1|testing
+RGPPF
+>Positive 47|1|testing
+GNPDIEHP
+>Positive 48|1|testing
+RGPPFGG
+>Positive 49|1|testing
+GPFPII
+>Positive 50|1|testing
+GPFPVI
+>Positive 51|1|testing
+GPPFIV
+>Positive 52|1|testing
+RGPPGFF
+>Positive 53|1|testing
+RGPPGFG
+>Positive 54|1|testing
+RGPPGGF
+>Positive 55|1|testing
+GV
+>Positive 56|1|testing
+RGPPGGV
+>Positive 57|1|testing
+GY
+>Positive 58|1|testing
+RP
+>Positive 59|1|testing
+IA
+>Positive 60|1|testing
+RPFFGG
+>Positive 61|1|testing
+RRPFF
+>Positive 62|1|testing
+RPPPFFF
+>Positive 63|1|testing
+IS
