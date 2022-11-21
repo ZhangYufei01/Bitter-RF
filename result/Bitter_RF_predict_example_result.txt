@@ -1,0 +1,14 @@
+1:0
+2:0
+3:0
+4:1
+5:1
+6:1
+
+Result parsing:
+The format we output is: 
+Serial number + bitter peptide prediction result.
+
+Analysis of bitter peptide prediction results:
+0: This sequence is predicted by Bitter_RF to be non-bitter peptide. 
+1: This sequence is predicted by Bitter_RF to be bitter peptide. 
