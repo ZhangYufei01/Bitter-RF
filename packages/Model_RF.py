@@ -1,5 +1,6 @@
-import joblib
+import pickle
 from pubscripts.read_code_ml import read_code
+from sklearn.ensemble import RandomForestClassifier
 
 def RF_model_prediction(File,str_type):
 
@@ -10,8 +11,9 @@ def RF_model_prediction(File,str_type):
     File2 = File_source + '/' + File_out
 
     X_test , y_test = read_code(File1,format='%s' % 'svm')
-    out=open(File2,'w')
-    model = joblib.load('packages/Bitter_RF.model')
+    out = open(File2, 'w')
+    with open("packages/Bitter_RF.model", "rb") as f:
+        model = pickle.load(f)
 
     predict = model.predict(X_test)
     predict = list(predict)
